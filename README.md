@@ -22,3 +22,5 @@ Your users should be able to:
 - See hover states for interactive elements
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+
+**Have fun building!** 🚀
